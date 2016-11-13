@@ -12,7 +12,7 @@ url:                http://www.j3zz.com
 
 destination: docs
 
-port: 4001
+# port: 4001
 
 # Jekyll
 permalink:          /:title/
