@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://www.j3zz.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://www.j3zz.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.j3zz.com/" rel="alternate" type="text/html" /><updated>2016-11-13T22:34:32+01:00</updated><id>http://www.j3zz.com//</id><title type="html">J3ZZ</title><subtitle>Experimental sound crea­tions and per­for­mances.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://www.j3zz.com/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2016-11-07T14:17:57+01:00</published><updated>2016-11-07T14:17:57+01:00</updated><id>http://www.j3zz.com/welcome-to-jekyll</id><content type="html" xml:base="http://www.j3zz.com/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Markdown Syntax</title><link href="http://www.j3zz.com/markdown-syntax/" rel="alternate" type="text/html" title="Markdown Syntax" /><published>2016-03-15T00:00:00+01:00</published><updated>2016-03-15T00:00:00+01:00</updated><id>http://www.j3zz.com/markdown-syntax</id><content type="html" xml:base="http://www.j3zz.com/markdown-syntax/">&lt;h2 id=&quot;html-elements&quot;&gt;HTML Elements&lt;/h2&gt;
+
+&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
+
+&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-5&quot;&gt;Heading 5&lt;/h5&gt;
+
+&lt;h6 id=&quot;heading-6&quot;&gt;Heading 6&lt;/h6&gt;
+
+&lt;h3 id=&quot;body-text&quot;&gt;Body text&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+
+&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
+
+&lt;p&gt;HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.&lt;/p&gt;
+
+&lt;h3 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;list-types&quot;&gt;List Types&lt;/h2&gt;
+
+&lt;h3 id=&quot;ordered-lists&quot;&gt;Ordered Lists&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Item one
+    &lt;ol&gt;
+      &lt;li&gt;sub item one&lt;/li&gt;
+      &lt;li&gt;sub item two&lt;/li&gt;
+      &lt;li&gt;sub item three&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;unordered-lists&quot;&gt;Unordered Lists&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Item one&lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+  &lt;li&gt;Item three&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;code-snippets&quot;&gt;Code Snippets&lt;/h2&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
+
+&lt;p&gt;Make any link standout more when applying the &lt;code class=&quot;highlighter-rouge&quot;&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn btn-success&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Primary Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-success&quot;&gt;Success Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-warning&quot;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-danger&quot;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-info&quot;&gt;Info Button&lt;/a&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;kbd&quot;&gt;KBD&lt;/h2&gt;
+
+&lt;p&gt;You can also use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;kbd&amp;gt;&lt;/code&gt; tag for keyboard buttons.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;kbd&amp;gt;&lt;/span&gt;W&lt;span class=&quot;nt&quot;&gt;&amp;lt;/kbd&amp;gt;&amp;lt;kbd&amp;gt;&lt;/span&gt;A&lt;span class=&quot;nt&quot;&gt;&amp;lt;/kbd&amp;gt;&amp;lt;kbd&amp;gt;&lt;/span&gt;S&lt;span class=&quot;nt&quot;&gt;&amp;lt;/kbd&amp;gt;&amp;lt;kbd&amp;gt;&lt;/span&gt;D&lt;span class=&quot;nt&quot;&gt;&amp;lt;/kbd&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Press &lt;kbd&gt;W&lt;/kbd&gt;&lt;kbd&gt;A&lt;/kbd&gt;&lt;kbd&gt;S&lt;/kbd&gt;&lt;kbd&gt;D&lt;/kbd&gt; to move your car. &lt;strong&gt;Midtown Maddness!!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;notices&quot;&gt;Notices&lt;/h2&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; to a paragraph.&lt;/p&gt;</content><summary type="html">Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.</summary></entry><entry><title type="html">A Post with a Video</title><link href="http://www.j3zz.com/video-post/" rel="alternate" type="text/html" title="A Post with a Video" /><published>2016-03-15T00:00:00+01:00</published><updated>2016-03-15T00:00:00+01:00</updated><id>http://www.j3zz.com/video-post</id><content type="html" xml:base="http://www.j3zz.com/video-post/">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/SU3kYxJmWuQ&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&quot;http://fitvidsjs.com/&quot;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Not sure if this only effects Kramdown or if it’s an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;iframe&amp;gt;&lt;/code&gt; tags and remove &lt;code class=&quot;highlighter-rouge&quot;&gt;allowfullscreen&lt;/code&gt;. Example below:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;315&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//www.youtube.com/embed/SU3kYxJmWuQ&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><summary type="html">Custom written post descriptions are the way to go... if you're not lazy.</summary></entry><entry><title type="html">‘Unbalanced Forces’ Installation at Lábor gallery</title><link href="http://www.j3zz.com/installation-unbalanced-forces-labor/" rel="alternate" type="text/html" title="'Unbalanced Forces' Installation at Lábor gallery" /><published>2016-02-13T00:00:00+01:00</published><updated>2016-02-13T00:00:00+01:00</updated><id>http://www.j3zz.com/installation-unbalanced-forces-labor</id><content type="html" xml:base="http://www.j3zz.com/installation-unbalanced-forces-labor/">&lt;h2 id=&quot;binaural-pov-recording-of-the-sound-installation&quot;&gt;Binaural POV recording of the sound installation&lt;/h2&gt;
+
+&lt;h3 id=&quot;use-headphones&quot;&gt;Use headphones&lt;/h3&gt;
+
+&lt;iframe width=&quot;497&quot; height=&quot;280&quot; src=&quot;https://www.youtube.com/embed/0LOZHHs_kzo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;SOUND INSTALLATION//&lt;/p&gt;
+
+&lt;p&gt;//JÉRÔME LI-THIAO-TÉ /original concept/&lt;/p&gt;
+
+&lt;p&gt;Aren’t we making the transition from former to new times, the scapegoat for our lack of intervention and responsible actions? Through their installation, the artists offer a reflection on a contemporary “photography” of the present Hungarian society.&lt;/p&gt;
+
+&lt;p&gt;The space itself echoes the reminiscences of its visits.&lt;/p&gt;
+
+&lt;p&gt;As visitors, let’s consider our options:
+//Raise our voice or remain silent?
+//Can we change the way we live together?
+//Are we the ones deciding our destiny?&lt;/p&gt;
+
+&lt;p&gt;VIDEO INSTALLATION//&lt;/p&gt;
+
+&lt;p&gt;//ANNA RUBI&lt;/p&gt;
+
+&lt;p&gt;Indefinitely, iconic spaces, statues covered with dust or even with snow are discreetly clinging into the present, still possessing our own territory. Images of inertia are colliding with the sounds of here and now.&lt;/p&gt;
+
+&lt;p&gt;This condition can only be changed by its visitors. From the drift of inequality there is a way out through recognising our responsibility and being consciously present.&lt;/p&gt;
+
+&lt;p&gt;CURATOR//&lt;/p&gt;
+
+&lt;p&gt;//JUDIT EMESE KONOPÁS&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;a-few-words-about-it&quot;&gt;A few words about it&lt;/h2&gt;
+
+&lt;iframe width=&quot;668&quot; height=&quot;375&quot; src=&quot;https://www.youtube.com/embed/5IfBEep7vZU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;pictures&quot;&gt;Pictures&lt;/h2&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-05-c1f426ec3f6424d9380f4430894762e0b7f60b338cabc3ad78d9d8c3ff551779.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-05-c1f426ec3f6424d9380f4430894762e0b7f60b338cabc3ad78d9d8c3ff551779.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-04-4fe743bf1ffe6108af455e44d0c9f179ada8f9d8236efee95f624bf7c317c6fe.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-04-4fe743bf1ffe6108af455e44d0c9f179ada8f9d8236efee95f624bf7c317c6fe.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-01-32ee1a7df7327fd6da261f19c943d9c5b117711c7a53a6a802da35ef6802c002.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-01-32ee1a7df7327fd6da261f19c943d9c5b117711c7a53a6a802da35ef6802c002.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-02-f2f328974aafb38aa390ab93ac7931b29926e578ce0d31de1fbbeaad53227e85.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-02-f2f328974aafb38aa390ab93ac7931b29926e578ce0d31de1fbbeaad53227e85.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-03-c6f75f4f5753bf66c5dc2e15a7b12b82d2c8410840c18ade5c314ca3197e28ee.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-03-c6f75f4f5753bf66c5dc2e15a7b12b82d2c8410840c18ade5c314ca3197e28ee.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-06-a123c579283c9101974ec1c9517f298bddb3ee9a90befed94ac46e4b9d9b6c61.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-06-a123c579283c9101974ec1c9517f298bddb3ee9a90befed94ac46e4b9d9b6c61.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-07-faf37c1ed93c4f6df01e6ec38a010d13a9a394e9e5c54ce0e75bde8a316a9d94.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-07-faf37c1ed93c4f6df01e6ec38a010d13a9a394e9e5c54ce0e75bde8a316a9d94.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-09-5b6bfaa794f3e51acc0bd392b77ce9d2f47e75635cecf7b3b7756f094cdd3199.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-09-5b6bfaa794f3e51acc0bd392b77ce9d2f47e75635cecf7b3b7756f094cdd3199.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-10-691cc45826af2aefb8ba124350d613bd0f557496179c2f2e617f979275ff2320.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-10-691cc45826af2aefb8ba124350d613bd0f557496179c2f2e617f979275ff2320.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-11-3faa0074c4eb05fa75834b09eb2f9e1d103ba2cc2fe7882480b543ac9ee6187c.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-11-3faa0074c4eb05fa75834b09eb2f9e1d103ba2cc2fe7882480b543ac9ee6187c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-12-963c4400c86c143d595073dd7d39644a92108a08fa09cf7b7f8ae6b47abaf6b2.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-12-963c4400c86c143d595073dd7d39644a92108a08fa09cf7b7f8ae6b47abaf6b2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-13-f48d33a6c66d797975139602d8e028b207cb4dc1c2abe51f92ecebf161e48a33.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-13-f48d33a6c66d797975139602d8e028b207cb4dc1c2abe51f92ecebf161e48a33.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-15-c8b1f1cf151f3a83bcb41288acf74c6727f2911537e1e852db5dafbfbc6041df.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-15-c8b1f1cf151f3a83bcb41288acf74c6727f2911537e1e852db5dafbfbc6041df.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-08-8cb8923996f217f25084ba68616aab9b6312bf5cbeeaef36f77672e855f7219c.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-08-8cb8923996f217f25084ba68616aab9b6312bf5cbeeaef36f77672e855f7219c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-14-de304d00df993532786fdb0760646c3c6174027ff1a4864a2ac4915eb7ef5c1a.jpg&quot;&gt;&lt;img src=&quot;/assets/2016-02-13-installation-unbalanced-forces-labor/unbalanced-forces-labor-14-de304d00df993532786fdb0760646c3c6174027ff1a4864a2ac4915eb7ef5c1a.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Some shots of the opening of the exhibition at Lábor gallery on February 13th, 2016. Guest performer, Jessica Simet (dance).&lt;/figcaption&gt;
+&lt;/figure&gt;</content><category term="Video" /><category term="Photo" /><category term="Installation" /><category term="Jérôme Li-Thiao-Té" /><summary type="html">Newest creation of Jérôme Li-Thiao-Té is exhibited at Lábor gallery. Aren’t we making the transition from former to new times, the scapegoat for our lack of intervention and responsible actions? Through their installation, the artists offer a reflection on a contemporary “photography” of the present Hungarian society.
+The space itself echoes the reminiscences of its visits.</summary></entry><entry><title type="html">Live ‘Massolit Series #07’ - ‘Sur Le Fil’</title><link href="http://www.j3zz.com/live-massolit-7/" rel="alternate" type="text/html" title="Live 'Massolit Series #07' - 'Sur Le Fil'" /><published>2015-08-25T00:00:00+02:00</published><updated>2015-08-25T00:00:00+02:00</updated><id>http://www.j3zz.com/live-massolit-7</id><content type="html" xml:base="http://www.j3zz.com/live-massolit-7/">&lt;p&gt;Jérôme Li-Thiao-Té takes the floor and performs his piece ‘Sur le Fil’. solo improvisation nu and contemporary acoustic violin.&lt;/p&gt;
+
+&lt;p&gt;Jérôme Li-Thiao-Té, founding member of J3ZZ, is a vio­lin player who pro­duces sound crea­tions and per­for­mances. He is also a pro­du­cer, a com­po­ser and teaches inter­dis­ci­pli­nary impro­vi­sa­tion. Jerome Li-Thiao-Té works in an inter­na­tio­nal and multi-cultural envi­ron­ment, always loo­king for exchanges and col­la­bo­ra­tions bet­ween dif­fe­rent artists and societies. In 1999 he gra­duates from the Conser­va­toire Natio­nal de Région de Musique, Danse &amp;amp; Art dra­ma­tique de la Réunion and in 2006 he gra­duates from Mas­ter of Sciences on Infor­ma­tion Sys­tems and Soft­ware Engineering..&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;J3ZZ – Massolit Series offers a space where the audience can experience the instant creativity of sound artists. Artists meet with no preparation and improvise, interact on the spot for ~30 minutes. Then the audience is invited to ask any questions or share with the artists. Conversations’ topics are open as improvisation is free.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;live-massolit-series-07-feat-jrme-li-thiao-t&quot;&gt;Live ‘Massolit Series #07 feat. Jérôme Li-Thiao-Té&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLSIiNC2Dc0ATgZy-1bMG4CU7ehj6Z-w09&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;pictures&quot;&gt;Pictures&lt;/h2&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-11-87d84197b113afbfbe8d24902114c5c0350c1c513912cd93f20457a70f571f59.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-11-87d84197b113afbfbe8d24902114c5c0350c1c513912cd93f20457a70f571f59.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-12-c128fcf7bcb2a78829a60788e829fec37f698afc58ab88c6704588a7a8875f93.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-12-c128fcf7bcb2a78829a60788e829fec37f698afc58ab88c6704588a7a8875f93.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-13-25b2bacf13e7633d615cb6877d0186809a75139cc6d66a153be586428475fcf1.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-13-25b2bacf13e7633d615cb6877d0186809a75139cc6d66a153be586428475fcf1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-14-06ca742e811aa8eb4183d03f191c48a500d90feb53b986803d863f4e5ae05032.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-14-06ca742e811aa8eb4183d03f191c48a500d90feb53b986803d863f4e5ae05032.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-16-38e736bd974e3282a9700d6e8c90fb5dc4b4c1042af3122c8cc2759d15d9c3fb.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-16-38e736bd974e3282a9700d6e8c90fb5dc4b4c1042af3122c8cc2759d15d9c3fb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-17-4d327f08df02525444e60b2d0a245560ab7d92478c4e5b0e43f9a7c2f4a14749.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-17-4d327f08df02525444e60b2d0a245560ab7d92478c4e5b0e43f9a7c2f4a14749.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Some shots of the event&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-01-0fb58585e4b09bc62c68207442e292512a9b3c102f2934a22d241a3094f45b0e.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-01-0fb58585e4b09bc62c68207442e292512a9b3c102f2934a22d241a3094f45b0e.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-02-4b1df1a7c37fb0554361f1b091712024664c451564474399ac4fa96e522a8b23.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-02-4b1df1a7c37fb0554361f1b091712024664c451564474399ac4fa96e522a8b23.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-03-e86c6e358f93e9174d809b7e09e371507beda24689782a6cb87ae34e6ddbe7c5.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-03-e86c6e358f93e9174d809b7e09e371507beda24689782a6cb87ae34e6ddbe7c5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-04-9250a8c64d2eae3c3646a8641b929a448fbc6d98de5db3b14a417a34340c133d.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-04-9250a8c64d2eae3c3646a8641b929a448fbc6d98de5db3b14a417a34340c133d.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-05-19694fc091edee783641e9e242b429ee054ec0e7fd39b4d7305d81e60cc5c518.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-05-19694fc091edee783641e9e242b429ee054ec0e7fd39b4d7305d81e60cc5c518.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-06-995a6a1e4b5ae74de0113efdb55045a669fd1873e66556029bb30571a75593a5.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-06-995a6a1e4b5ae74de0113efdb55045a669fd1873e66556029bb30571a75593a5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-07-56872d8cee08a744ab0834419a479305573e576760a417156e4e3fd6f0acdadf.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-07-56872d8cee08a744ab0834419a479305573e576760a417156e4e3fd6f0acdadf.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-08-423c1e43dd425d1dd22c49a43c559e5ca43abe2c562f9621c4dbaa927db6d5a7.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-08-423c1e43dd425d1dd22c49a43c559e5ca43abe2c562f9621c4dbaa927db6d5a7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-09-33fd3989a67c8928067482e8ee5709ec947882a248e4ef94e56d48d1f920d9d0.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-25-live-massolit-7/massolit-7-09-33fd3989a67c8928067482e8ee5709ec947882a248e4ef94e56d48d1f920d9d0.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Some 'behind the scenes' shots&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;what-is-massolit-series&quot;&gt;What is Massolit Series?&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLSIiNC2Dc0ASKku0fqbUcx51U03XoxhMP&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-complete-massolit-series-audio-recordings&quot;&gt;The complete Massolit Series audio recordings&lt;/h2&gt;
+
+&lt;iframe style=&quot;border: 0; width: 400px; height: 472px;&quot; src=&quot;http://bandcamp.com/EmbeddedPlayer/album=3492680959/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;http://music.jeromelithiaote.com/album/massolit-series-live&quot;&gt;MASSOLIT SERIES (Live) by J3ZZ&lt;/a&gt;&lt;/iframe&gt;</content><category term="Video" /><category term="Photo" /><category term="Live" /><category term="Massolit Series" /><category term="Recording" /><category term="Jérôme Li-Thiao-Té" /><category term="Sur le Fil" /><summary type="html">Jérôme Li-Thiao-Té takes the floor and performs his piece 'Sur le Fil'. solo improvisation nu and contemporary acoustic violin. Being a com­po­ser and inter­dis­ci­pli­nary impro­vi­sa­tion coach, he pro­duces sound crea­tions and per­for­mances.</summary></entry><entry><title type="html">MathJax Example</title><link href="http://www.j3zz.com/mathjax-example/" rel="alternate" type="text/html" title="MathJax Example" /><published>2015-08-10T00:00:00+02:00</published><updated>2015-08-10T00:00:00+02:00</updated><id>http://www.j3zz.com/mathjax-example</id><content type="html" xml:base="http://www.j3zz.com/mathjax-example/">&lt;p&gt;&lt;a href=&quot;http://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt; is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics &lt;code class=&quot;highlighter-rouge&quot;&gt;\[ ... \]&lt;/code&gt;, and the other for inline mathematics &lt;code class=&quot;highlighter-rouge&quot;&gt;\( ... \)&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
+
+&lt;p&gt;To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;markdown: kramdown
+mathjax: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering:
+\\[ \frac{1}{n^{2}} \\]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Here is an example MathJax inline rendering \( 1/x^{2} \), and here is a block rendering:
+\[ \frac{1}{n^{2}} \]&lt;/p&gt;
+
+&lt;p&gt;The only thing to look out for is the escaping of the backslash when using markdown, so the delimiters become &lt;code class=&quot;highlighter-rouge&quot;&gt;\\[ ... \\]&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;\\( ... \\)&lt;/code&gt; for inline and block maths respectively.&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{align*}
+  &amp; \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  &amp; (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) &amp; \cdots &amp; \phi(e_1, e_n) \\
+      \vdots &amp; \ddots &amp; \vdots \\
+      \phi(e_n, e_1) &amp; \cdots &amp; \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*} %]]&gt;&lt;/script&gt;</content><summary type="html">MathJax Example for J3ZZ Jekyll Theme.</summary></entry><entry><title type="html">Live ‘Massolit Series #06’</title><link href="http://www.j3zz.com/live-massolit-6/" rel="alternate" type="text/html" title="Live 'Massolit Series #06'" /><published>2015-07-23T00:00:00+02:00</published><updated>2015-07-23T00:00:00+02:00</updated><id>http://www.j3zz.com/live-massolit-6</id><content type="html" xml:base="http://www.j3zz.com/live-massolit-6/">&lt;p&gt;Jérôme Li-Thiao-Té &amp;amp; Zsolt Sőrés (Ahad) take the floor.&lt;/p&gt;
+
+&lt;p&gt;Zsolt Sőrés (Ahad) is a Hungarian improvised / electroacoustic and noise musician, sound artist, editor and curator. Groups: duo with Jean-Hervé Péron Art-Errorist (from the legendary krautrock band Faust), Ahad &amp;amp; ChrS (with Christian Skjødt), collaborations with Franz Hautzinger, Julo Fujak and Isabelle Duthoit, I Belong to the Band (with Adam Bohman, Oli Mayne and Jean-Michel Van Schouwburg), trio with Richard Barrett and Milana Zarić, duo with Christian Kobi etc. His field of interest and activity – beside music – includes the borderline and the margin of different art forms, too. Sőrés is also collaborate with artists from different fields of art (choreographers, stage directors, fine artists, videomakers, phonic poets). In 2012 he was the Hungarian curator of the international ”Sound Exchange – Experimental Music Cultures in Central and Eastern Europe” project. In 2014 Sőrés curated the first collective international sound installation exhibition in Hungary called ”On the Edge of Perceptibility – Sound Art” at Kunsthalle, Budapest. In 2008 he edited a book and wrote a preface study about ”New Chances of Autonomy” with the texts by Hakim Bey aka Peter Lamborn Wilson among other onthological anarchists. He is currently working with Inconsolable Ghost on the soundtrack to the new version of Andrey Iskanov’s hallucinogenic horror classic ”Visions of Suffering”.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;J3ZZ – Massolit Series offers a space where the audience can experience the instant creativity of sound artists. Artists meet with no preparation and improvise, interact on the spot for ~30 minutes. Then the audience is invited to ask any questions or share with the artists. Conversations’ topics are open as improvisation is free.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;live-massolit-series-06-feat-zsolt-srs-ahad&quot;&gt;Live ‘Massolit Series #06 feat. Zsolt Sőrés (Ahad)&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLSIiNC2Dc0ARFuf3G4xCRqtnxWkDVkQzt&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;pictures&quot;&gt;Pictures&lt;/h2&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-19-live-massolit-6/massolit-6-04-30064594d32ba5d53c0efeaa59cd748177de9f1bf66d5e5c0a25827a98b52610.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-19-live-massolit-6/massolit-6-04-30064594d32ba5d53c0efeaa59cd748177de9f1bf66d5e5c0a25827a98b52610.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-19-live-massolit-6/massolit-6-05-a16c387d8fa520be33d0ae89fef0534d13199116b13a2342c0e7bcc7e6b25368.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-19-live-massolit-6/massolit-6-05-a16c387d8fa520be33d0ae89fef0534d13199116b13a2342c0e7bcc7e6b25368.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-19-live-massolit-6/massolit-6-06-82a77f12bb5065372c590e75e9e7664329d5185e6fb20ec0ce5b0b9f7eff4812.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-19-live-massolit-6/massolit-6-06-82a77f12bb5065372c590e75e9e7664329d5185e6fb20ec0ce5b0b9f7eff4812.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-08-19-live-massolit-6/massolit-6-07-63fdef9fbd05b67bbe5d6fe70e391530aa252eff3d79ed148ce59dd30280e282.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-08-19-live-massolit-6/massolit-6-07-63fdef9fbd05b67bbe5d6fe70e391530aa252eff3d79ed148ce59dd30280e282.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Some 'behind the scenes' shots&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;what-is-massolit-series&quot;&gt;What is Massolit Series?&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLSIiNC2Dc0ASKku0fqbUcx51U03XoxhMP&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-complete-massolit-series-audio-recordings&quot;&gt;The complete Massolit Series audio recordings&lt;/h2&gt;
+
+&lt;iframe style=&quot;border: 0; width: 400px; height: 472px;&quot; src=&quot;http://bandcamp.com/EmbeddedPlayer/album=3492680959/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;http://music.jeromelithiaote.com/album/massolit-series-live&quot;&gt;MASSOLIT SERIES (Live) by J3ZZ&lt;/a&gt;&lt;/iframe&gt;</content><category term="Video" /><category term="Photo" /><category term="Live" /><category term="Massolit Series" /><category term="Recording" /><category term="Jérôme Li-Thiao-Té" /><category term="Zsolt Sőrés (Ahad)" /><summary type="html">Jérôme Li-Thiao-Té &amp; Zsolt Sőrés (Ahad) take the floor. Zsolt Sőrés is a Hungarian improvised / electroacoustic and noise musician, sound artist, editor and curator. Groups: duo with Jean-Hervé Péron Art-Errorist (from the legendary krautrock band Faust), Ahad &amp; ChrS (with Christian Skjødt), collaborations with Franz Hautzinger...</summary></entry><entry><title type="html">Live ‘Massolit Series #05’</title><link href="http://www.j3zz.com/live-massolit-5/" rel="alternate" type="text/html" title="Live 'Massolit Series #05'" /><published>2015-07-23T00:00:00+02:00</published><updated>2015-07-23T00:00:00+02:00</updated><id>http://www.j3zz.com/live-massolit-5</id><content type="html" xml:base="http://www.j3zz.com/live-massolit-5/">&lt;p&gt;Jérôme Li-Thiao-Té &amp;amp; Bálint Bolcsó take the floor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bolcso.net/en/news&quot;&gt;Bálint Bolcsó&lt;/a&gt; (*1979) studied instrumental and electroacoustic composition in Budapest and Vienna. He was a regular participant of the International Bartók Seminar in Szombathely, Hungary. His compositions were performed at Bartók Festival, Budapest Autumn Festival, Making New Waves, Wien Modern, mise-en music festival (New York) and CAFe Budapest, among others. He writes vocal, instrumental and electroacoustic pieces, radio plays, sound installations as well as applied music for film, dance and theatre. He is involved with electroacoustic music and live electronics as composer, improviser and university lecturer. Recent improvised music settings include rubik.erno.quintet, trio:beeper and duos with Christian Kobi, Jonas Kocher, Zsolt Sőrés, Gergely Kovács and Gergő Kováts.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;J3ZZ – Massolit Series offers a space where the audience can experience the instant creativity of sound artists. Artists meet with no preparation and improvise, interact on the spot for ~30 minutes. Then the audience is invited to ask any questions or share with the artists. Conversations’ topics are open as improvisation is free.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;live-massolit-series-05-feat-blint-bolcs&quot;&gt;Live ‘Massolit Series #05 feat. Bálint Bolcsó&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLSIiNC2Dc0ATpYbpgcSy5LBWLzO54OAT1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;pictures&quot;&gt;Pictures&lt;/h2&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-23-live-massolit-5/massolit-5-01-88fccfbe69fd1d31bd6d2a1e007f909b7e3d290885476929547ceae69e431848.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-23-live-massolit-5/massolit-5-01-88fccfbe69fd1d31bd6d2a1e007f909b7e3d290885476929547ceae69e431848.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-23-live-massolit-5/massolit-5-02-8eb1600f3ebb92e32cd72bbfc78d5c5368ab2a20d387f89ec3eb7d4b8f8f871e.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-23-live-massolit-5/massolit-5-02-8eb1600f3ebb92e32cd72bbfc78d5c5368ab2a20d387f89ec3eb7d4b8f8f871e.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-23-live-massolit-5/massolit-5-04-f115ca3ccc4c832966d9221dbd70c00cc84f6a512e83e94b596b5aa0211e9852.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-23-live-massolit-5/massolit-5-04-f115ca3ccc4c832966d9221dbd70c00cc84f6a512e83e94b596b5aa0211e9852.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-23-live-massolit-5/massolit-5-05-659349eb94e3c2f33ed0518de8b4505083dd81cf4fd1c05a7f5f7501e5cd3b81.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-23-live-massolit-5/massolit-5-05-659349eb94e3c2f33ed0518de8b4505083dd81cf4fd1c05a7f5f7501e5cd3b81.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Some shots of the event&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;what-is-massolit-series&quot;&gt;What is Massolit Series?&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLSIiNC2Dc0ASKku0fqbUcx51U03XoxhMP&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-complete-massolit-series-audio-recordings&quot;&gt;The complete Massolit Series audio recordings&lt;/h2&gt;
+
+&lt;iframe style=&quot;border: 0; width: 400px; height: 472px;&quot; src=&quot;http://bandcamp.com/EmbeddedPlayer/album=3492680959/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;http://music.jeromelithiaote.com/album/massolit-series-live&quot;&gt;MASSOLIT SERIES (Live) by J3ZZ&lt;/a&gt;&lt;/iframe&gt;</content><category term="Video" /><category term="Photo" /><category term="Live" /><category term="Recording" /><category term="Massolit Series" /><category term="Jérôme Li-Thiao-Té" /><category term="Bálint Bolcsó" /><summary type="html">Jérôme Li-Thiao-Té &amp; composer Bálint Bolcsó take the floor. Bálint Bolcsó studied instrumental and electroacoustic composition in Budapest and Vienna. His compositions were performed at Bartók Festival, Budapest Autumn Festival, Making New Waves, Wien Modern, mise-en music festival (New York) and CAFe Budapest, among others.</summary></entry><entry><title type="html">Live ‘Massolit Series #04’</title><link href="http://www.j3zz.com/live-massolit-4/" rel="alternate" type="text/html" title="Live 'Massolit Series #04'" /><published>2015-07-14T00:00:00+02:00</published><updated>2015-07-14T00:00:00+02:00</updated><id>http://www.j3zz.com/live-massolit-4</id><content type="html" xml:base="http://www.j3zz.com/live-massolit-4/">&lt;p&gt;Jérôme Li-Thiao-Té &amp;amp; Endre Kertész take the floor.&lt;/p&gt;
+
+&lt;p&gt;Cello player. Cellist. Cello is the diminutive suffix of the word violoncello. Violone means double bass, what belongs to the family of the Viola de gambas; the cello though, is descendant of the Violin family.
+Endre Kertész is a musician. A classical one.
+His partner in crime is an Austrian instrument from 1828. They can be seen at concert halls, theatres, clubs and on the streets or on the internet as well. They’re silent most of the time, but sometimes they make sounds – both of them in their own way.
+“Sometimes it works. Other times it doesn’t.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;J3ZZ – Massolit Series offers a space where the audience can experience the instant creativity of sound artists. Artists meet with no preparation and improvise, interact on the spot for ~30 minutes. Then the audience is invited to ask any questions or share with the artists. Conversations’ topics are open as improvisation is free.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;live-massolit-series-04-feat-endre-kertsz&quot;&gt;Live ‘Massolit Series #04 feat. Endre Kertész&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLSIiNC2Dc0ATdxVKAiAuCYd_PovmKqcHm&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;pictures&quot;&gt;Pictures&lt;/h2&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-14-live-massolit-4/massolit-4-01-54cb3828688b01a43d7e1d085d9480e69c9e3532ec45b6d394c31f98fa0c1627.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-14-live-massolit-4/massolit-4-01-54cb3828688b01a43d7e1d085d9480e69c9e3532ec45b6d394c31f98fa0c1627.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-14-live-massolit-4/massolit-4-02-8f96f4e03e9f5d37ce1ae65bd62e173b7573c31b61d71c9dc8064b13fa209e2f.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-14-live-massolit-4/massolit-4-02-8f96f4e03e9f5d37ce1ae65bd62e173b7573c31b61d71c9dc8064b13fa209e2f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-14-live-massolit-4/massolit-4-04-ec5ff218ff73138907530745f876162d8e616b1ae2b05a2637024aafc43bf8d1.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-14-live-massolit-4/massolit-4-04-ec5ff218ff73138907530745f876162d8e616b1ae2b05a2637024aafc43bf8d1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Some shots of the event&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;what-is-massolit-series&quot;&gt;What is Massolit Series?&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLSIiNC2Dc0ASKku0fqbUcx51U03XoxhMP&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-complete-massolit-series-audio-recordings&quot;&gt;The complete Massolit Series audio recordings&lt;/h2&gt;
+
+&lt;iframe style=&quot;border: 0; width: 400px; height: 472px;&quot; src=&quot;http://bandcamp.com/EmbeddedPlayer/album=3492680959/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;http://music.jeromelithiaote.com/album/massolit-series-live&quot;&gt;MASSOLIT SERIES (Live) by J3ZZ&lt;/a&gt;&lt;/iframe&gt;</content><category term="Video" /><category term="Photo" /><category term="Recording" /><category term="Live" /><category term="Massolit Series" /><category term="Jérôme Li-Thiao-Té" /><category term="Endre Kertész" /><summary type="html">Jérôme Li-Thiao-Té &amp; Endre Kertész take the floor. Cello player. Cellist. Cello is the diminutive suffix of the word violoncello. Violone means double bass, what belongs to the family of the Viola de gambas; the cello though, is descendant of the Violin family. Endre Kertész is a musician. A classical one.</summary></entry><entry><title type="html">Live ‘Massolit Series #03’</title><link href="http://www.j3zz.com/live-massolit-3/" rel="alternate" type="text/html" title="Live 'Massolit Series #03'" /><published>2015-07-03T00:00:00+02:00</published><updated>2015-07-03T00:00:00+02:00</updated><id>http://www.j3zz.com/live-massolit-3</id><content type="html" xml:base="http://www.j3zz.com/live-massolit-3/">&lt;p&gt;Jérôme Li-Thiao-Té &amp;amp; Áron Porteleki take the floor.&lt;/p&gt;
+
+&lt;p&gt;Áron Porteleki grew up in the hungarian „Táncház” (dance-house) movement in Budapest. As a child he learned the three-stringed viola from Transylvanian and Hungarian musicians and took jazz lessons on drums. In the past 8-10 years he took part in several music groups, from improvised jazz to pop-rock and became a professional recording and performing artist mostly on his drums, but being part of the folk music era as well. Now his main interests focused on connecting the different types of improvisations found in folk music and jazz, and to transform the experiences on his viola into new rhythmic structures on drums.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;J3ZZ – Massolit Series offers a space where the audience can experience the instant creativity of sound artists. Artists meet with no preparation and improvise, interact on the spot for ~30 minutes. Then the audience is invited to ask any questions or share with the artists. Conversations’ topics are open as improvisation is free.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;live-massolit-series-03-feat-ron-porteleki&quot;&gt;Live ‘Massolit Series #03 feat. Áron Porteleki&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLSIiNC2Dc0ASG3WWWhCv59S_RaAMNN6Z2&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;pictures&quot;&gt;Pictures&lt;/h2&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-03-live-massolit-3/massolit-3-01-b773cdf9f429d750ff98b0776515250ef7a0b5d626736acbb0eacbbfac56f2a1.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-03-live-massolit-3/massolit-3-01-b773cdf9f429d750ff98b0776515250ef7a0b5d626736acbb0eacbbfac56f2a1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-03-live-massolit-3/massolit-3-02-0167825798bc1071044d6abeaad9e2d6eebc56703b7649c1bfe05bc8c8403ab3.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-03-live-massolit-3/massolit-3-02-0167825798bc1071044d6abeaad9e2d6eebc56703b7649c1bfe05bc8c8403ab3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-03-live-massolit-3/massolit-3-04-7740dd3747b2a0aaa93b6234f81bbd22d7887e8c13bfc7c20e49c2a00b79e668.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-03-live-massolit-3/massolit-3-04-7740dd3747b2a0aaa93b6234f81bbd22d7887e8c13bfc7c20e49c2a00b79e668.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;a href=&quot;/assets/2015-07-03-live-massolit-3/massolit-3-05-ff90e3f5cf0121bc985e0d75a94861b82888148c5c9b283edd89d80a724a01da.jpg&quot;&gt;&lt;img src=&quot;/assets/2015-07-03-live-massolit-3/massolit-3-05-ff90e3f5cf0121bc985e0d75a94861b82888148c5c9b283edd89d80a724a01da.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;Some 'behind the scenes' shots&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;what-is-massolit-series&quot;&gt;What is Massolit Series?&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLSIiNC2Dc0ASKku0fqbUcx51U03XoxhMP&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-complete-massolit-series-audio-recordings&quot;&gt;The complete Massolit Series audio recordings&lt;/h2&gt;
+
+&lt;iframe style=&quot;border: 0; width: 400px; height: 472px;&quot; src=&quot;http://bandcamp.com/EmbeddedPlayer/album=3492680959/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;http://music.jeromelithiaote.com/album/massolit-series-live&quot;&gt;MASSOLIT SERIES (Live) by J3ZZ&lt;/a&gt;&lt;/iframe&gt;</content><category term="Video" /><category term="Photo" /><category term="Live" /><category term="Recording" /><category term="Massolit Series" /><category term="Jérôme Li-Thiao-Té" /><category term="Áron Porteleki" /><summary type="html">Jérôme Li-Thiao-Té &amp; Áron Porteleki take the floor. Áron Porteleki grew up in the hungarian „Táncház” (dance-house) movement in Budapest. As a child he learned the three-stringed viola from Transylvanian and Hungarian musicians and took jazz lessons on drums.</summary></entry></feed>
