@@ -99,10 +99,10 @@ assets:
 
   sources:
     - _posts/
-    - _assets/css
-    - _assets/fonts
-    - _assets/img
-    - _assets/js
+    - assets/css
+    - assets/fonts
+    - assets/img
+    - assets/js
     # - _assets/images
     # - _assets/javascripts
     # - _assets/stylesheets
