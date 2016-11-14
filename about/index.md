@@ -10,4 +10,4 @@ comments: false
 
 <center>That's it.</center>
 
-Reach us at contact@jeromelithiaote.com
+<center>Reach us at contact@jeromelithiaote.com</center>
