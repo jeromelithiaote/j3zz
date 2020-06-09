@@ -1,0 +1,56 @@
+    <!-- About Section -->
+    <section id="j3zzlab" class="container content-section text-center">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+              <h2>#J3ZZLAB</h2>
+              <p>
+                A design without design. A box without a frame. This is a playground. A playlab. For all of us to experiment.
+                The main idea of #J3ZZLAB is to provide a platform to each and everyone (listener, artist, social worker, scientist, kids etc.)
+                to learn by doing. Online and offline.
+                This idea was born during the Covid-19 rough times that we are all facing.
+              </p>
+              <h3>Look for the upcoming #J3ZZLAB</h3>
+              <ul class="list-inline banner-social-buttons">
+              {% for network in site.tour %}
+              <li>
+                  <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+              </li>
+              {% endfor %}
+              </ul>
+              <p>It is a serie of offline/online events focusing everytime on a different topic with a different format (workshop, talk, performance...)
+              </p>
+          </div>
+        </div>
+        <hr>
+        <h3>Stream the past #J3ZZLAB 👇</h3>
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <h4>#J3ZZLAB 02</h4>
+            <p>
+              <i>Streamed live on May 23, 2020</i> <br>
+              listening to plants and playing along / improvising between analog and digital / video synthesis projection
+              <iframe width="712" height="400" src="https://www.youtube-nocookie.com/embed/wJuN7f5t6kw " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <h4>#J3ZZLAB 01</h4>
+            <p>
+              <i>Streamed live on May 16, 2020</i><br />
+              improvising between analog and digital / exploring music visualization
+              <iframe width="712" height="400" src="https://www.youtube-nocookie.com/embed/6uYOBfwy8mQ " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <h4>#J3ZZLAB 00</h4>
+            <p>
+              <i>Streamed live on May 9, 2020</i><br />
+              improvising between analog and digital
+              <iframe width="712" height="400" src="https://www.youtube-nocookie.com/embed/COnVarxXADE " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </p>
+          </div>
+        </div>
+    </section>

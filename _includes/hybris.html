@@ -1,0 +1,30 @@
+
+    <!-- About music-releases -->
+    <section id="hybris" class="content-section text-center">
+      <div class="hybris-section">
+        <div class="container">
+
+          <div class="row">
+              <div class="col-lg-8 col-lg-offset-2">
+                <h2>HYBRIS</h2>
+                <h3>an acoustic strings improvisative side project</h3>
+                <p>Through HYBRIS, I attempt to pay tribute to what made the core of my music inspiration: classical music. From a very young age, I was influenced by classical music.
+                  It feels natural and reassuring for me to play the violin and it came to my mind that I wanted the so-called classical music to be as alive as possible,
+                  which meant to me that I wanted to create music with strings in presence of an audience. Slowly, I shared with classical musicans and the journey began.
+                  My first partner in crime is Endre Kertész, fantastic cellist from Hungary.
+                </p>
+                <h3>More releases to come soon</h3>
+                <ul class="list-inline banner-social-buttons">
+                    {% for network in site.music-releases %}
+                    <li>
+                        <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+              </div>
+          </div>
+
+
+        </div>
+      </div>
+    </section>

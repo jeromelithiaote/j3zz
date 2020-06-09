@@ -1,0 +1,37 @@
+<!-- Contact Section -->
+<section id="contact" class="container content-section text-center">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2">
+      <h2>Contact</h2>
+      <!-- <p><a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </p> -->
+      <ul class="list-inline banner-social-buttons">
+        {% for network in site.social %}
+        <li>
+          <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+        </li>
+        {% endfor %}
+      </ul>
+      <hr>
+      <p>For concert booking</p>
+      <form action="https://formspree.io/{{ site.email }}" method="POST">
+        <div class="form-group">
+          <label for="name">Name</label>
+          <input type="text" class="form-control" name="name" id="name" />
+        </div>
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="text" class="form-control" name="_replyto" id="email" />
+          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        </div>
+        <div class="form-group">
+          <label for="message">Message</label>
+          <textarea name="message" class="form-control" id="message" rows="6"></textarea>
+        </div>
+        <input type="submit" value="Send Message" class="btn btn-default btn-lg" />
+        <input type="reset" value="Clear" class="btn btn-default btn-lg"/>
+
+      </form>
+    </div>
+  </div>
+</section>

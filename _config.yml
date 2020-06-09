@@ -1,0 +1,53 @@
+destination: docs
+
+# Site settings
+title: J3ZZ
+email: contact@j3zz.com
+url: https://www.j3zz.com
+description: "Ambient blend of bio sounds, electronics & strings <br /> Human x Nature x Technology"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: www.j3zz.com
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://facebook.com/iamj3zz
+  - title: instagram
+    url: https://instagram.com/iamj3zz
+  - title: youtube
+    url: https://www.youtube.com/iamj3zz/
+  - title: twitch
+    url: https://twitch.tv/iamj3zz
+
+# Music networks urls (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+music-releases:
+  - title: spotify
+    url: https://open.spotify.com/artist/0gsGZAcqRcoDmr6RuaKwze?si=cf5cdNT0Qo-8yZqCTc-mhg
+  - title: apple
+    url: https://music.apple.com/us/artist/j3zz/1506525107
+  - title: deezer
+    url: hhttps://www.deezer.com/us/artist/7685176
+  - title: google
+    url: https://play.google.com/store/music/artist?id=Actvivms23ztfdml7a4sqraijg4
+  - title: amazon
+    url: https://www.amazon.com/s?k=J3ZZ&i=digital-music&search-type=ss&ref=ntt_srch_drd_B00FRNMNIW
+
+# Tour networks urls (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+tour:
+  - title: All events
+    url: https://www.jeromelithiaote.com/events
+  - title: FB events
+    url: https://www.facebook.com/iamj3zz/events/
+  - title: RA events
+    url: https://www.residentadvisor.net/promoter.aspx?id=98079
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
