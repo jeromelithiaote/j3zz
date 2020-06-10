@@ -1,4 +1,6 @@
 destination: docs
+plugins:
+  - jekyll-sitemap
 
 # Site settings
 title: J3ZZ
