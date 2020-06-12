@@ -3,12 +3,40 @@ google_analytics: UA-53728067-1
 destination: docs
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
-# Site settings
+# Site settings incl. SEO
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: J3ZZ
 email: contact@j3zz.com
 url: https://www.j3zz.com
+tagline: "All you need to know about J3ZZ - music composer, producer & sound artist"
 description: "Ambient blend of bio sounds, electronics & strings <br /> Human x Nature x Technology"
+author: J3ZZ
+twitter:
+  username: iamj3zz
+  card: summary
+facebook:
+  app_id: 730091681068806
+  publisher: 354588793499
+  admins: 611780478
+logo: /img/j3zz-logo-300pxwide.png
+social:
+  name: J3ZZ
+  links:
+    - https://twitter.com/iamj3zz
+    - https://www.facebook.com/iamj3zz
+    - https://www.instagram.com/iamj3zz
+    - https://www.youtube.com/iamj3zz
+    - https://www.twitch.tv/iamj3zz
+webmaster_verifications:
+  google: 1234
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234
+lang: en_US
+
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -28,6 +56,9 @@ social:
     url: https://www.youtube.com/iamj3zz/
   - title: twitch
     url: https://twitch.tv/iamj3zz
+  - title: "on discord:  iamj3zz#1937"
+    url: https://discord.com/channels/@me
+
 
 # Music networks urls (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 music-releases:
