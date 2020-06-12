@@ -3,4 +3,5 @@
 .jekyll-metadata
 .asset-cache
 .jekyll-cache
-vendor
+vendor/
+.bundle/
