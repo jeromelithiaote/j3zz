@@ -1,3 +1,5 @@
+google_analytics: UA-53728067-1
+
 destination: docs
 plugins:
   - jekyll-sitemap
