@@ -29,12 +29,18 @@ social:
     - https://www.instagram.com/iamj3zz
     - https://www.youtube.com/iamj3zz
     - https://www.twitch.tv/iamj3zz
+
+# <meta name="google-site-verification" content="RU4Wgh8e3rOsG-tnE8UubmcrAQZa15w9OZUwgjIRNAI" />
+# <meta name="msvalidate.01" content="1234" />
+# <meta name="alexaVerifyID" content="1234" />
+# <meta name="yandex-verification" content="1234" />
+# <meta name="baidu-site-verification" content="1234" />
 webmaster_verifications:
-  google: 1234
-  bing: 1234
-  alexa: 1234
-  yandex: 1234
-  baidu: 1234
+  google: RU4Wgh8e3rOsG-tnE8UubmcrAQZa15w9OZUwgjIRNAI
+  # bing: 1234
+  # alexa: 1234
+  # yandex: 1234
+  # baidu: 1234
 lang: en_US
 
 
