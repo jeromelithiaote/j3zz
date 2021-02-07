@@ -1,106 +1,90 @@
-google_analytics: UA-53728067-1
+#-------------------------------
+# General Site Settings
+
+title: J3ZZ audiovisual creations & performances
+description: "Ambient blend of bio sounds, electronics & strings <br /> Human x Nature x Technology"
+tagline: "All you need to know about J3ZZ - music composer, producer & sound artist"
+keywords: "video, music, j3zzlab, events, music, livestream, audiovisual, contemporary, live stream, concert, installation, show, concert, artist"
+url: https://j3zz.com
+# baseurl: "/galada" # the subpath of your site, e.g. /blog
+# url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
 
 destination: docs
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
 
-# Site settings incl. SEO
-# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-title: J3ZZ audiovisual creations & performances
-keywords: "video, music, j3zzlab, events, music, livestream, audiovisual, contemporary, live stream, concert, installation, show, concert, artist"
-email: contact@j3zz.com
-url: https://j3zz.com
-tagline: "All you need to know about J3ZZ - music composer, producer & sound artist"
-description: "Ambient blend of bio sounds, electronics & strings <br /> Human x Nature x Technology"
-author: J3ZZ
-twitter:
-  username: iamj3zz
-  card: summary
-facebook:
-  app_id: 730091681068806
-  publisher: 354588793499
-  admins: 611780478
-logo: /img/j3zz-logo-300pxwide.png
-social:
-  name: J3ZZ
-  links:
-    - https://twitter.com/iamj3zz
-    - https://www.facebook.com/iamj3zz
-    - https://www.instagram.com/iamj3zz
-    - https://www.youtube.com/iamj3zz
-    - https://www.twitch.tv/iamj3zz
-
-# <meta name="google-site-verification" content="RU4Wgh8e3rOsG-tnE8UubmcrAQZa15w9OZUwgjIRNAI" />
-# <meta name="msvalidate.01" content="1234" />
-# <meta name="alexaVerifyID" content="1234" />
-# <meta name="yandex-verification" content="1234" />
-# <meta name="baidu-site-verification" content="1234" />
-webmaster_verifications:
-  google: RU4Wgh8e3rOsG-tnE8UubmcrAQZa15w9OZUwgjIRNAI
-  # bing: 1234
-  # alexa: 1234
-  # yandex: 1234
-  # baidu: 1234
-lang: en_US
-# The SEO tag will respect the following YAML front matter if included in a post, page, or document:
-#
-#     title - The title of the post, page, or document
-#     description - A short description of the page's content
-#     image - URL to an image associated with the post, page, or document (e.g., /assets/page-pic.jpg)
-#     author - Page-, post-, or document-specific author information (see Advanced usage)
-#     lang - Page-, post-, or document-specific language information
+#-------------------------------
+# About Section
+author-name:   J3ZZ
+author-avatar: 09.jpg
 
 
+#-------------------------------
+# Contact links
+facebook:  https://facebook.com/iamj3zz # Add your Facebook handle
+instagram: https://www.instagram.com/iamj3zz # Add your Facebook handle
+youtube:   https://www.youtube.com/iamj3zz/ # Add your Youtube handle
+twitch: https://twitch.tv/iamj3zz/ # Add your twitch handle
 
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
-
-# Footer settings
-footer: www.j3zz.com
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: facebook
-    url: https://facebook.com/iamj3zz
-  - title: instagram
-    url: https://instagram.com/iamj3zz
-  - title: youtube
-    url: https://www.youtube.com/iamj3zz/
-  - title: twitch
-    url: https://twitch.tv/iamj3zz
-  - title: "on discord:  iamj3zz#1937"
-    url: https://discord.com/channels/@me
-  - title: Newsletter
-    url: https://mailchi.mp/487c90476402/vim4j3n2m1
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 
-# Music networks urls (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-music-releases:
-  - title: spotify
-    url: https://open.spotify.com/artist/0gsGZAcqRcoDmr6RuaKwze?si=cf5cdNT0Qo-8yZqCTc-mhg
-  - title: apple
-    url: https://music.apple.com/us/artist/j3zz/1506525107
-  - title: deezer
-    url: https://www.deezer.com/us/artist/7685176
-  - title: google
-    url: https://play.google.com/store/music/artist?id=Actvivms23ztfdml7a4sqraijg4
-  - title: amazon
-    url: https://www.amazon.com/s?k=J3ZZ&i=digital-music&search-type=ss&ref=ntt_srch_drd_B00FRNMNIW
-
-# Tour networks urls (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-tour:
-  - title: All events
-    url: https://www.jeromelithiaote.com/events
-  - title: FB events
-    url: https://www.facebook.com/iamj3zz/events/
-  - title: RA events
-    url: https://www.residentadvisor.net/promoter.aspx?id=98079
+#-------------------------------
+# Instagram Feed
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
 
 
+#-------------------------------
+# Google Analytics
+google-analytics: UA-53728067-1
+# Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: j3zz.us6.list-manage.com/subscribe/post?u=349b73ae355385780ee4a24db&id=fa86ed72ea
+# Add your MailChimp form identifier.
+# For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+
+#-------------------------------
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: ':title/'
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-multiple-languages-plugin
+
+paginate: 11
+paginate_path: "/page/:num"
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+languages: ["en", "fr"]
+
+email: contact@j3zz.com
+
+webmaster_verifications:
+  google: RU4Wgh8e3rOsG-tnE8UubmcrAQZa15w9OZUwgjIRNAI
+
+# exclude_from_localizations: ["js", "img", "css", "favicon.ico"]
+
+# default_locale_in_subfolder: true
+
+#-------------------------------
+# Exclude from processing.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -1,0 +1,30 @@
+global:
+  tagline: English
+  about: About
+  twitter: Twitter
+  github: GitHub
+langs:
+  fr: Français
+  en: English
+  es: Español
+pages:
+  example: example
+  includeexample: The following text is a Jekyll include liquid tag parameter
+  booktickets: Book your tickets
+  onlinemusic: Available on most music platforms
+  store: Support. Buy merch
+  allevents: All events
+titles:
+  pagination: Pagination
+xp:
+  readmore: Read more
+sidebar:
+  recentposts: Recent Posts
+  languages: Languages
+  events: Tour
+  store: Store
+  onlinemusic: Online music
+  subscribe: Subscribe & Follow
+  newsletter: Newsletter
+  insta: Instagram
+  tagcloud: Tag Cloud
