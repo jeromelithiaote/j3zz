@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: intro-bg.jpg
+image: contact.jpg
 permalink: /contact/
 ---
 
