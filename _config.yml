@@ -23,11 +23,11 @@ facebook:  https://facebook.com/iamj3zz # Add your Facebook handle
 instagram: https://www.instagram.com/iamj3zz # Add your Facebook handle
 youtube:   https://www.youtube.com/iamj3zz/ # Add your Youtube handle
 twitch: https://twitch.tv/iamj3zz/ # Add your twitch handle
-
+form_id: mwkwzakv
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
