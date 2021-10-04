@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Hybris / Ex Nihilo",
+      "category" : "",
+      "tags"     : "music video and music release",
+      "url"      : "/hybris-ex-nihilo-serie/",
+      "date"     : "2021-04-28 07:00:30 +0200"
+    } ,
+  
+    {
       "title"    : "The song of the nightingale",
       "category" : "",
       "tags"     : "music video",
       "url"      : "/the-song-of-the-nightingale/",
-      "date"     : "2021-02-06 11:03:30 +0400"
+      "date"     : "2021-02-06 08:03:30 +0100"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "music video and music release",
       "url"      : "/a-drop-in-the-ocean/",
-      "date"     : "2021-02-05 11:03:30 +0400"
+      "date"     : "2021-02-05 08:03:30 +0100"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "music video and music release",
       "url"      : "/stereo-woods/",
-      "date"     : "2021-02-04 11:03:30 +0400"
+      "date"     : "2021-02-04 08:03:30 +0100"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "category" : "",
       "tags"     : "music video and music release",
       "url"      : "/false-truths/",
-      "date"     : "2021-02-03 11:03:30 +0400"
+      "date"     : "2021-02-03 08:03:30 +0100"
     } 
   
 ]
