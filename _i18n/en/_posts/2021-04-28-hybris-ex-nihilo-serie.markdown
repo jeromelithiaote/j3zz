@@ -10,7 +10,7 @@ published: true
 
 ---
 
-# Out now! [Video premiere of ex nihilo 2](https://www.youtube.com/embed/Jc6lOe_jvCQ)
+# Out now! [Video premiere of ex nihilo 2](https://www.youtube.com/embed/Jc6lOe_jvCQ) 
 
 I am happy to present you a collaborative work around my side projet called “Hybris” that Sengsavane Chounramany (visuals) and myself are very proud of. We hope it will bring you some more hope and beauty in these tumultuous moments. It is our way to tell you thank you for your support.
 
